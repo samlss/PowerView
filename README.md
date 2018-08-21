@@ -39,7 +39,7 @@ dependencies {
 | ------------- |:-------------:|
 | powerColor      | the color of charging power  |
 | bgColor | the color of battery background |
-| powerProgress | the progress |
+| powerProgress | the progress(0-100) |
 | orientation | the orientation(horizontal/vertical)  |
 
 <br/>
