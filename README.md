@@ -1,5 +1,5 @@
 # PowerView
-A pretty charging view(一个简约的充电view).
+A pretty charging view.
 
 
 ### [中文](https://github.com/samlss/PowerView/blob/master/README-ZH.md)
